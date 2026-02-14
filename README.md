@@ -17,7 +17,7 @@ This repository presents the implemetation of An-interpretable-deep-learning-fra
 
 <br>
 
-**Utilized Dataset CICIoT2023** <br>
+**Utilized Dataset : CICIoT2023** <br>
 In the proposed framework, we used "CICIoT2023 dataset. It can be accessed from University of New Brunswick (UnB), repository. <br>
 [CICIoT2023 Dataset](https://www.unb.ca/cic/datasets/iotdataset-2023.html) <br>
 
